@@ -1,0 +1,23 @@
+import pandas as pd
+# Criando um DataFrame
+
+dados = {'nome':['João', 'Maria', 'José', 'Ana', 'Pedro', 'Alan'],
+         'idade':[20,25,30,35,40, 30],
+         'cidade':['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre', 'Campinas']}
+
+df_descomplica = pd.DataFrame(dados)
+print(df_descomplica)
+
+df_descomplica.at[2, 'cidade'] =  'Recife'
+df_descomplica['cidade']
+df_descomplica.drop(5,inplace=True)
+df_descomplica.rename(columns={'cidade': 'Cidade_inteiro'},inplace=True)
+df_descomplica.rename(columns={'Cidade_inteiro': 'CD'}, inplace=True)
+
+
+
+
+
+
+
+
