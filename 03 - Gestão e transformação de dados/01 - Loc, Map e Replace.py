@@ -20,9 +20,9 @@ df_frutas.iloc[0]['quantidade']
 
 # Projeto Cadastro de Pessoas
 
-dados_cadastro = {'nome':['João', 'Maria', 'José','Ana', 'Pedro', 'Alan'],
-                  'idade':[20,25,30,35,40,30],
-                  'cidade':['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre', 'Campinas']
+dados_cadastro = {'nome':['João', 'Maria', 'José','Ana', 'Pedro', 'Alan', 'Carol','Evelyn', 'Laura'],
+                  'idade':[20,25,30,35,40,30,24,38,22],
+                  'cidade':['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba','Campinas', 'Porto Alegre', 'Rio de Janeiro', 'Rio de Janeiro', 'Rio de Janeiro']
                   }
 df_cadastro = pd.DataFrame(dados_cadastro)
 df_cadastro
@@ -38,3 +38,31 @@ desvio_idade
 # Soma
 soma_idades = df_cadastro['idade'].sum()
 soma_idades
+
+# map()
+
+mapeamento_cidade = {
+    'São Paulo': 'SP',
+    'Rio de Janeiro': 'RJ',
+    'Campinas': 'SP',
+    'Belo Horizonte': 'MG',
+    'Curitiba': 'PR',
+    'Porto Alegre': 'RS'
+}
+
+mapeamento_cidade
+
+df_cadastro['cidade']
+df_cadastro['cidade'] = df_cadastro['cidade'].map(mapeamento_cidade)
+
+df_cadastro['cidade'] = df_cadastro['cidade'].replace('MG', 'Minas Gerais')
+df_cadastro['cidade']
+
+df_cadastro['cidade'] = df_cadastro['cidade'].replace('SP', 'São Paulo')
+df_cadastro['cidade']
+
+# Group By
+
+df_pessoas_mais_velha = df_cadastro.loc[df_cadastro.groupby('cidade')['idade'].idxmax()]
+df_pessoas_mais_velha
+
