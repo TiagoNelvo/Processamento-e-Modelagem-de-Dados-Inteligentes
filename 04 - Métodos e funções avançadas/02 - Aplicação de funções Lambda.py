@@ -26,3 +26,11 @@ taxa = {'USD':1, 'EUR':1.2, 'JPY':0.009}
 taxa
 
 conversao_para_usd
+
+# Funções Lambda
+
+df_cambio['Preço GBP'] = df_cambio['Preço USD'].apply(lambda x:x * 1.4)
+
+df_cambio
+
+
