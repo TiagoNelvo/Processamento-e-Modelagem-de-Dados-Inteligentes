@@ -57,4 +57,133 @@ plt.ylabel('Média de vendas')
 plt.title('Média de vendas por produto')
 plt.show()
 
+# Criando Gráficos básicos
 
+# Adicionando coluna Mes
+df_loja['Mes'] = pd.DatetimeIndex(df_loja['Data da Venda']).month
+df_loja
+
+# Vendas Mensais
+df_loja_vendas_por_mes = df_loja.groupby(['Nome Produto', 'Mes'])['Quantidade Vendida'].sum()
+df_loja_vendas_por_mes
+
+# Vendas mensais de camisa manga longa
+df_loja_vendas_manga_longa = df_loja_vendas_por_mes.loc['CAMISA MANGA LONGA']
+df_loja_vendas_manga_longa
+
+# Vendas mensais de camisa gola polo
+df_loja_vendas_gola_polo = df_loja_vendas_por_mes.loc['CAMISA GOLA POLO']
+df_loja_vendas_gola_polo
+
+# Vendas mensais de calça jeans
+df_loja_vendas_calca_jeans = df_loja_vendas_por_mes.loc['CALÇA JEANS']
+df_loja_vendas_calca_jeans
+
+# Vendas mensais de camiseta basica
+df_loja_vendas_camiseta_basica = df_loja_vendas_por_mes.loc['CAMISETA BÁSICA']
+df_loja_vendas_camiseta_basica
+
+# Vendas mensais de sapato social
+df_loja_vendas_sapato_social = df_loja_vendas_por_mes.loc['SAPATO SOCIAL']
+df_loja_vendas_sapato_social
+
+# Construindo Gráfico
+
+# Estrutura do gráfico
+plt.plot(df_loja_vendas_manga_longa.index, df_loja_vendas_manga_longa.values, label = 'Camisa Manga Longa')
+plt.plot(df_loja_vendas_gola_polo.index, df_loja_vendas_gola_polo.values, label = 'Camisa Gola Polo')
+plt.plot(df_loja_vendas_camiseta_basica.index, df_loja_vendas_camiseta_basica.values, label = 'Camiseta Básica')
+plt.plot(df_loja_vendas_calca_jeans.index, df_loja_vendas_calca_jeans.values, label = 'Calça Jeans')
+plt.plot(df_loja_vendas_sapato_social.index, df_loja_vendas_sapato_social.values, label = 'Sapato Social')
+
+# Personalização do Gráfico
+plt.legend()
+plt.xticks([1,2,3,4,5,6,7,8,9,10,11,12], ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'])
+plt.ylabel('Quantidade Vendida')
+plt.title('Quantidade Total Vendida de Cada Produto')
+plt.show
+
+# Fazendo em barras (trocar o plt.plot por plt.bar)
+# Estrutura do gráfico
+plt.bar(df_loja_vendas_manga_longa.index, df_loja_vendas_manga_longa.values, label = 'Camisa Manga Longa')
+plt.bar(df_loja_vendas_gola_polo.index, df_loja_vendas_gola_polo.values, label = 'Camisa Gola Polo')
+plt.bar(df_loja_vendas_camiseta_basica.index, df_loja_vendas_camiseta_basica.values, label = 'Camiseta Básica')
+plt.bar(df_loja_vendas_calca_jeans.index, df_loja_vendas_calca_jeans.values, label = 'Calça Jeans')
+plt.bar(df_loja_vendas_sapato_social.index, df_loja_vendas_sapato_social.values, label = 'Sapato Social')
+
+# Personalização do Gráfico
+plt.legend()
+plt.xticks([1,2,3,4,5,6,7,8,9,10,11,12], ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'])
+plt.ylabel('Quantidade Vendida')
+plt.title('Quantidade Total Vendida de Cada Produto')
+plt.show
+
+# Gráfico das Médias
+
+df_agrupados = df_loja.groupby('Nome Produto').mean()
+
+# Gráfico
+plt.bar(df_agrupados.index, df_agrupados['Quantidade Vendida'], color=['red','blue','green','orange','purple'])
+plt.xticks(rotation=45)
+plt.ylabel('Média de Vendas')
+plt.title('Média de Vendas por Produto')
+plt.grid(axis='y',linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.show()
+
+# Função dos Gráficos
+def grafico_media():
+    plt.figure()
+    plt.bar(df_agrupados.index, df_agrupados['Quantidade Vendida'], color=['red','blue','green','orange','purple'])
+    plt.xticks(rotation=45)
+    plt.ylabel('Média de Vendas')
+    plt.title('Média de Vendas por Produto')
+    plt.grid(axis='y',linestyle='--', alpha=0.7)
+    plt.tight_layout()
+    plt.show() 
+
+grafico_media()
+
+# Grafico em linha
+def grafico_linha():
+# Estrutura do gráfico
+    plt.figure()
+    plt.plot(df_loja_vendas_manga_longa.index, df_loja_vendas_manga_longa.values, label = 'Camisa Manga Longa')
+    plt.plot(df_loja_vendas_gola_polo.index, df_loja_vendas_gola_polo.values, label = 'Camisa Gola Polo')
+    plt.plot(df_loja_vendas_camiseta_basica.index, df_loja_vendas_camiseta_basica.values, label = 'Camiseta Básica')
+    plt.plot(df_loja_vendas_calca_jeans.index, df_loja_vendas_calca_jeans.values, label = 'Calça Jeans')
+    plt.plot(df_loja_vendas_sapato_social.index, df_loja_vendas_sapato_social.values, label = 'Sapato Social')
+
+    # Personalização do Gráfico
+    plt.legend()
+    plt.xticks([1,2,3,4,5,6,7,8,9,10,11,12], ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'])
+    plt.ylabel('Quantidade Vendida')
+    plt.title('Quantidade Total Vendida de Cada Produto')
+    plt.show
+    
+grafico_linha()
+
+# Função Grafico em barra
+def grafico_bar():
+# Estrutura do gráfico
+    plt.figure()
+    plt.bar(df_loja_vendas_manga_longa.index, df_loja_vendas_manga_longa.values, label = 'Camisa Manga Longa')
+    plt.bar(df_loja_vendas_gola_polo.index, df_loja_vendas_gola_polo.values, label = 'Camisa Gola Polo')
+    plt.bar(df_loja_vendas_camiseta_basica.index, df_loja_vendas_camiseta_basica.values, label = 'Camiseta Básica')
+    plt.bar(df_loja_vendas_calca_jeans.index, df_loja_vendas_calca_jeans.values, label = 'Calça Jeans')
+    plt.bar(df_loja_vendas_sapato_social.index, df_loja_vendas_sapato_social.values, label = 'Sapato Social')
+
+    # Personalização do Gráfico
+    plt.legend()
+    plt.xticks([1,2,3,4,5,6,7,8,9,10,11,12], ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'])
+    plt.ylabel('Quantidade Vendida')
+    plt.title('Quantidade Total Vendida de Cada Produto')
+    plt.show
+grafico_bar()
+
+def chamar_graficos():
+    grafico_linha()
+    grafico_bar()
+    grafico_media()
+    
+chamar_graficos()
