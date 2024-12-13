@@ -187,3 +187,43 @@ def chamar_graficos():
     grafico_media()
     
 chamar_graficos()
+
+# Scatter
+
+import matplotlib.pyplot as plt
+
+plt.figure()
+plt.scatter(df_loja['Preco Unitario'],df_loja['Quantidade Vendida'], alpha=0.5, s=50, c='purple')
+plt.xlabel('Preco Unitário', fontsize=12)
+plt.ylabel('Quantidade Vendida', fontsize=12)
+plt.title('Relação entre o preço unitário e a quantidade vendida',fontsize=14)
+plt.grid(axis='both',linestyle='--',alpha=0.7)
+plt.tight_layout()
+plt.show
+
+# Função do codigo scatter
+def grafico_scatter():
+    plt.figure()
+    plt.scatter(df_loja['Preco Unitario'], df_loja['Quantidade Vendida'], alpha=0.5, s=50, c='red')
+    plt.xlabel('Preço Unitario', fontsize=12)
+    plt.ylabel('Quantidade Vendida', fontsize=12)
+    plt.title('Relação entre o preco unitário e a quantidade vendida', fontsize=14)
+    plt.grid(axis='both',linestyle='--',alpha=0.7) #'-', '--', '-.', ':', 'None', ' ', '', 'solid', 'dashed', 'dashdot', 'dotted'
+    plt.tight_layout
+    plt.show()
+grafico_scatter()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
