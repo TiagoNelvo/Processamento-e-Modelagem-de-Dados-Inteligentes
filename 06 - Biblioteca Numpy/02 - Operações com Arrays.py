@@ -27,3 +27,13 @@ subratacao_array = array_2 - array_1
 subratacao_array
 
 subratacao_array[1]
+array_2[2]
+
+np.append(array_1,array_2)
+
+nova_array = np.append(array_1,array_2)
+nova_array
+
+nova_array[3]
+
+#
