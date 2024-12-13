@@ -1,0 +1,1001 @@
+ID Produto,Nome Produto,Quantidade Vendida,Preco Unitario,Data da Venda
+9,Camisa Manga Longa,3,29.49,2021-09-20
+2,Calça Jeans,2,87.54,2021-01-23
+10,Camiseta Básica,4,42.47,2021-11-29
+5,Camisa Gola Polo,16,21.32,2021-10-31
+6,Camisa Gola Polo,1,16.07,2021-10-12
+3,Sapato Social,8,11.46,2021-08-23
+4,Sapato Social,11,33.63,2021-03-25
+10,Camisa Manga Longa,18,70.48,2021-06-16
+3,Camisa Manga Longa,2,60.46,2021-11-18
+6,Sapato Social,6,90.29,2021-09-05
+1,Sapato Social,19,60.62,2021-03-14
+3,Camisa Gola Polo,8,85.78,2021-11-20
+8,Calça Jeans,5,89.67,2021-06-09
+4,Camiseta Básica,15,73.26,2021-03-27
+8,Camisa Manga Longa,2,39.68,2021-01-31
+2,Camisa Gola Polo,14,71.91,2021-02-23
+2,Camisa Manga Longa,4,89.63,2021-08-24
+1,Camisa Gola Polo,4,15.21,2021-04-16
+5,Camisa Gola Polo,7,37.03,2021-06-04
+2,Camisa Manga Longa,13,57.53,2021-10-20
+9,Sapato Social,10,56.62,2021-07-07
+8,Camiseta Básica,16,89.54,2021-11-28
+3,Sapato Social,2,57.73,2021-10-30
+5,Calça Jeans,7,87.25,2021-06-09
+1,Camisa Manga Longa,17,73.21,2021-04-14
+9,Calça Jeans,16,25.72,2021-11-18
+6,Camisa Gola Polo,1,47.64,2021-05-05
+6,Camisa Manga Longa,16,89.42,2021-11-07
+10,Camisa Gola Polo,13,94.93,2021-07-05
+6,Sapato Social,9,19.18,2021-08-25
+5,Sapato Social,17,43.37,2021-02-06
+4,Camisa Manga Longa,8,55.71,2021-12-06
+7,Camisa Gola Polo,13,44.63,2021-10-01
+8,Camisa Manga Longa,1,30.77,2021-02-25
+7,Camiseta Básica,20,23.8,2021-09-17
+4,Sapato Social,20,32.73,2021-05-18
+5,Camiseta Básica,8,67.99,2021-11-21
+5,Camisa Manga Longa,10,76.0,2021-02-05
+2,Camisa Manga Longa,12,78.5,2021-08-31
+4,Calça Jeans,15,68.37,2021-08-27
+8,Sapato Social,3,72.5,2021-05-02
+3,Calça Jeans,4,54.08,2021-02-05
+6,Camisa Manga Longa,19,13.3,2021-07-18
+4,Camisa Manga Longa,6,75.81,2021-08-10
+2,Calça Jeans,1,32.94,2021-09-29
+5,Camisa Gola Polo,19,77.79,2021-10-29
+10,Sapato Social,10,51.82,2021-07-22
+1,Camisa Gola Polo,4,56.26,2021-12-13
+9,Camisa Gola Polo,1,79.38,2021-12-29
+6,Camisa Gola Polo,13,23.06,2021-01-31
+4,Calça Jeans,20,63.39,2021-02-14
+4,Camisa Gola Polo,10,83.26,2021-05-01
+9,Sapato Social,19,13.61,2021-08-31
+8,Camisa Gola Polo,2,86.6,2021-12-13
+5,Calça Jeans,14,56.82,2021-08-04
+3,Camiseta Básica,14,19.59,2021-04-14
+2,Sapato Social,17,58.3,2021-05-23
+8,Camisa Gola Polo,15,68.12,2021-02-02
+5,Camisa Manga Longa,1,61.82,2021-09-09
+7,Camiseta Básica,3,17.18,2021-04-14
+6,Camiseta Básica,3,22.25,2021-01-19
+10,Sapato Social,4,29.94,2021-11-30
+10,Camiseta Básica,8,18.83,2021-07-19
+10,Camisa Gola Polo,10,84.82,2021-08-20
+2,Camiseta Básica,19,29.65,2021-03-14
+8,Calça Jeans,18,97.5,2021-03-26
+6,Camiseta Básica,6,63.65,2021-04-10
+5,Sapato Social,1,66.94,2021-07-26
+6,Calça Jeans,4,26.65,2021-01-03
+8,Sapato Social,4,72.96,2021-09-13
+7,Camiseta Básica,12,84.66,2021-05-05
+4,Camiseta Básica,13,63.49,2021-10-27
+1,Camisa Manga Longa,12,37.85,2021-05-03
+9,Camisa Manga Longa,2,75.95,2021-08-19
+2,Camiseta Básica,3,21.07,2021-08-04
+9,Camiseta Básica,16,37.14,2021-09-22
+1,Sapato Social,18,92.85,2021-05-17
+9,Camisa Gola Polo,13,99.37,2021-09-02
+8,Camiseta Básica,4,10.38,2021-03-10
+9,Camisa Manga Longa,11,75.43,2021-09-14
+3,Camisa Gola Polo,8,92.97,2021-08-29
+3,Calça Jeans,3,83.45,2021-12-02
+3,Camisa Manga Longa,19,60.27,2021-07-01
+9,Camisa Gola Polo,16,30.98,2021-09-10
+10,Calça Jeans,2,43.38,2021-07-19
+5,Camiseta Básica,5,19.07,2021-05-12
+7,Camisa Manga Longa,16,37.91,2021-02-14
+5,Camiseta Básica,9,82.78,2021-11-14
+6,Camisa Manga Longa,14,61.62,2021-08-31
+8,Camisa Gola Polo,9,83.59,2021-05-25
+2,Calça Jeans,3,70.16,2021-04-08
+3,Camisa Gola Polo,1,34.09,2021-10-09
+4,Camisa Gola Polo,7,20.08,2021-05-14
+1,Calça Jeans,4,36.02,2021-12-05
+8,Camiseta Básica,10,13.06,2021-05-15
+6,Camisa Manga Longa,17,44.47,2021-01-26
+5,Calça Jeans,2,12.65,2021-03-29
+6,Camiseta Básica,11,11.46,2021-08-27
+6,Camiseta Básica,20,79.36,2021-07-06
+9,Sapato Social,7,60.17,2021-09-18
+8,Sapato Social,14,27.14,2021-04-25
+9,Camisa Manga Longa,19,13.64,2021-08-26
+7,Camisa Manga Longa,10,34.67,2021-02-04
+8,Camisa Gola Polo,19,90.94,2021-12-22
+4,Sapato Social,15,25.74,2021-01-15
+7,Camisa Gola Polo,9,95.3,2021-11-13
+10,Camisa Manga Longa,1,33.15,2021-11-15
+1,Sapato Social,9,73.08,2021-01-13
+2,Camisa Gola Polo,14,81.24,2021-11-14
+2,Calça Jeans,20,41.09,2021-03-05
+5,Sapato Social,11,68.6,2021-01-01
+7,Sapato Social,10,24.81,2021-09-24
+2,Camiseta Básica,11,46.36,2021-01-04
+8,Camisa Gola Polo,13,76.01,2021-06-10
+9,Camisa Manga Longa,11,92.91,2021-07-17
+7,Camisa Gola Polo,4,94.69,2021-05-26
+6,Calça Jeans,17,82.85,2021-12-29
+8,Camisa Manga Longa,18,88.33,2021-03-15
+7,Camisa Manga Longa,16,12.66,2021-04-12
+9,Camisa Manga Longa,2,75.18,2021-09-23
+9,Camiseta Básica,8,59.18,2021-04-25
+1,Camiseta Básica,8,54.44,2021-09-03
+10,Camiseta Básica,9,96.01,2021-02-24
+1,Camiseta Básica,20,78.72,2021-11-15
+4,Camisa Manga Longa,9,62.04,2021-10-08
+5,Camiseta Básica,8,26.04,2021-11-07
+8,Camiseta Básica,13,55.2,2021-06-15
+7,Calça Jeans,14,77.53,2021-04-26
+8,Camiseta Básica,18,45.77,2021-04-02
+3,Calça Jeans,7,32.49,2021-09-07
+9,Calça Jeans,11,47.67,2021-09-01
+3,Calça Jeans,6,15.4,2021-02-04
+10,Camisa Manga Longa,13,46.14,2021-12-24
+7,Sapato Social,6,70.63,2021-10-20
+5,Camisa Gola Polo,20,35.69,2021-05-28
+5,Camisa Gola Polo,12,78.37,2021-04-17
+9,Camisa Manga Longa,5,49.7,2021-01-07
+2,Camiseta Básica,15,79.09,2021-03-05
+5,Camisa Gola Polo,16,55.77,2021-07-26
+6,Calça Jeans,18,73.48,2021-11-30
+3,Camisa Manga Longa,1,50.63,2021-01-31
+2,Calça Jeans,5,91.08,2021-01-04
+8,Camiseta Básica,9,42.74,2021-08-19
+7,Sapato Social,16,81.0,2021-02-05
+8,Camisa Gola Polo,19,40.97,2021-12-18
+7,Sapato Social,20,76.92,2021-08-29
+10,Camiseta Básica,10,99.7,2021-03-16
+4,Sapato Social,17,23.78,2021-05-26
+2,Camisa Gola Polo,20,56.18,2021-07-19
+2,Calça Jeans,20,11.22,2021-06-09
+6,Camiseta Básica,6,29.29,2021-03-11
+8,Calça Jeans,1,87.37,2021-08-01
+10,Calça Jeans,14,51.89,2021-05-04
+10,Calça Jeans,4,39.94,2021-11-09
+3,Camisa Manga Longa,13,82.27,2021-11-16
+9,Calça Jeans,18,71.72,2021-08-16
+8,Sapato Social,14,24.16,2021-11-19
+3,Calça Jeans,17,24.98,2021-01-02
+9,Camiseta Básica,5,72.77,2021-12-12
+3,Camiseta Básica,11,80.47,2021-10-31
+1,Camisa Gola Polo,12,43.92,2021-05-09
+4,Sapato Social,6,70.44,2021-09-17
+7,Calça Jeans,14,57.18,2021-07-21
+7,Calça Jeans,15,44.37,2021-06-13
+5,Sapato Social,18,18.83,2021-02-11
+6,Camisa Gola Polo,10,18.82,2021-06-19
+6,Camiseta Básica,17,65.5,2021-06-29
+4,Sapato Social,17,56.58,2021-05-12
+3,Camiseta Básica,3,76.26,2021-12-07
+3,Calça Jeans,6,35.41,2021-01-20
+2,Camisa Gola Polo,8,29.83,2021-08-09
+4,Calça Jeans,2,65.14,2021-08-21
+4,Camiseta Básica,10,74.32,2021-12-22
+1,Sapato Social,3,33.71,2021-09-30
+10,Calça Jeans,9,38.54,2021-11-14
+1,Camisa Manga Longa,10,54.09,2021-08-28
+4,Camiseta Básica,8,10.47,2021-10-04
+5,Camiseta Básica,4,20.87,2021-08-27
+2,Camiseta Básica,6,83.54,2021-10-09
+10,Camisa Manga Longa,12,29.87,2021-09-23
+7,Camiseta Básica,1,75.9,2021-02-14
+1,Sapato Social,14,11.04,2021-10-16
+7,Sapato Social,12,66.67,2021-11-29
+8,Sapato Social,14,99.99,2021-11-18
+2,Camiseta Básica,2,59.24,2021-04-18
+3,Calça Jeans,6,13.34,2021-07-01
+8,Camisa Gola Polo,5,85.57,2021-09-21
+9,Camisa Manga Longa,2,12.17,2021-03-03
+2,Camiseta Básica,18,65.33,2021-09-07
+7,Camisa Manga Longa,16,15.38,2021-01-03
+5,Camisa Gola Polo,4,14.77,2021-03-05
+5,Camiseta Básica,11,71.15,2021-12-01
+9,Calça Jeans,8,96.03,2021-10-02
+5,Camiseta Básica,17,46.27,2021-08-18
+8,Camiseta Básica,19,86.66,2021-10-29
+10,Camisa Manga Longa,15,21.28,2021-01-11
+4,Camisa Gola Polo,17,88.56,2021-05-01
+8,Camiseta Básica,16,43.22,2021-08-05
+3,Camisa Gola Polo,19,40.96,2021-08-09
+3,Sapato Social,17,91.87,2021-10-24
+8,Camisa Gola Polo,18,64.83,2021-08-27
+3,Camiseta Básica,6,13.29,2021-07-10
+6,Camisa Manga Longa,12,12.52,2021-06-28
+2,Calça Jeans,11,99.62,2021-11-24
+2,Camisa Gola Polo,7,50.97,2021-04-17
+4,Camiseta Básica,10,48.49,2021-09-08
+2,Camisa Manga Longa,20,99.89,2021-12-24
+3,Camisa Gola Polo,9,36.18,2021-08-17
+9,Camisa Manga Longa,3,43.78,2021-10-15
+4,Calça Jeans,8,61.54,2021-12-15
+7,Camisa Manga Longa,9,85.56,2021-04-07
+9,Camisa Gola Polo,5,21.2,2021-09-05
+9,Camisa Manga Longa,12,82.68,2021-12-19
+5,Camisa Manga Longa,3,47.08,2021-04-25
+8,Camisa Manga Longa,11,19.67,2021-03-22
+6,Camisa Gola Polo,10,42.95,2021-02-17
+5,Camisa Manga Longa,4,52.66,2021-09-16
+1,Sapato Social,20,73.26,2021-01-17
+2,Camiseta Básica,3,83.7,2021-11-28
+8,Calça Jeans,8,63.69,2021-02-16
+9,Sapato Social,12,64.92,2021-12-14
+2,Camisa Gola Polo,13,40.41,2021-05-21
+9,Camisa Manga Longa,5,31.86,2021-01-07
+4,Camisa Gola Polo,17,96.38,2021-10-02
+10,Sapato Social,15,19.75,2021-08-06
+8,Calça Jeans,17,57.88,2021-06-10
+6,Camisa Manga Longa,17,52.23,2021-02-18
+4,Calça Jeans,20,82.28,2021-07-03
+10,Camisa Gola Polo,17,75.45,2021-03-20
+9,Camiseta Básica,6,89.63,2021-10-03
+1,Calça Jeans,16,62.39,2021-01-03
+6,Sapato Social,20,28.91,2021-11-25
+5,Sapato Social,9,68.65,2021-05-20
+6,Camiseta Básica,1,43.52,2021-03-30
+6,Sapato Social,9,92.25,2021-03-28
+5,Calça Jeans,20,30.02,2021-04-19
+10,Calça Jeans,15,80.81,2021-08-05
+6,Camisa Manga Longa,5,60.42,2021-05-25
+6,Camisa Gola Polo,2,76.74,2021-04-18
+3,Camisa Manga Longa,3,93.87,2021-09-23
+6,Camisa Gola Polo,3,38.2,2021-04-30
+7,Camisa Manga Longa,4,77.89,2021-01-22
+7,Camisa Manga Longa,6,20.51,2021-11-14
+1,Calça Jeans,3,20.19,2021-08-09
+2,Calça Jeans,6,85.57,2021-09-08
+8,Calça Jeans,17,21.51,2021-11-11
+4,Camisa Gola Polo,19,63.78,2021-07-20
+10,Camisa Manga Longa,8,51.62,2021-12-30
+9,Sapato Social,18,46.22,2021-02-01
+1,Sapato Social,7,44.79,2021-11-15
+4,Camiseta Básica,16,30.1,2021-05-03
+1,Camisa Gola Polo,14,67.59,2021-10-31
+5,Camiseta Básica,1,93.23,2021-11-10
+4,Camiseta Básica,16,15.7,2021-11-11
+5,Calça Jeans,13,98.35,2021-10-10
+7,Camiseta Básica,8,71.83,2021-06-23
+10,Calça Jeans,1,42.87,2021-11-04
+6,Camisa Manga Longa,6,81.68,2021-05-21
+3,Camiseta Básica,12,68.05,2021-11-06
+2,Camisa Manga Longa,3,31.29,2021-11-07
+7,Camiseta Básica,14,73.12,2021-03-28
+2,Camisa Manga Longa,11,27.52,2021-09-05
+2,Camisa Gola Polo,12,16.34,2021-12-08
+8,Camisa Manga Longa,16,87.64,2021-02-24
+2,Sapato Social,19,23.46,2021-11-19
+1,Camiseta Básica,17,50.67,2021-10-09
+5,Sapato Social,4,47.67,2021-12-05
+5,Camiseta Básica,7,64.29,2021-07-08
+4,Calça Jeans,20,42.89,2021-04-14
+4,Camisa Manga Longa,11,48.14,2021-02-26
+6,Camisa Gola Polo,13,51.27,2021-02-03
+3,Camisa Manga Longa,4,82.67,2021-05-26
+8,Calça Jeans,19,88.54,2021-04-10
+5,Camisa Manga Longa,17,49.3,2021-01-26
+8,Camiseta Básica,14,11.49,2021-05-14
+10,Calça Jeans,3,34.34,2021-12-18
+6,Calça Jeans,20,37.36,2021-03-07
+3,Camisa Manga Longa,15,30.58,2021-07-29
+5,Camisa Manga Longa,12,76.16,2021-05-12
+9,Camisa Gola Polo,4,79.73,2021-05-24
+10,Camiseta Básica,3,99.94,2021-10-04
+10,Camisa Gola Polo,9,36.85,2021-09-19
+1,Camisa Gola Polo,1,56.17,2021-07-14
+10,Camisa Manga Longa,9,54.86,2021-01-04
+4,Camisa Gola Polo,12,34.73,2021-07-08
+8,Calça Jeans,7,61.28,2021-06-11
+9,Camisa Gola Polo,15,36.56,2021-01-01
+1,Calça Jeans,20,39.42,2021-02-16
+8,Sapato Social,8,49.4,2021-08-10
+3,Camisa Manga Longa,8,44.13,2021-07-11
+8,Camisa Gola Polo,11,32.54,2021-03-06
+1,Sapato Social,5,47.19,2021-03-18
+6,Camisa Manga Longa,12,70.36,2021-11-09
+6,Sapato Social,12,17.14,2021-07-11
+7,Camisa Gola Polo,18,83.06,2021-03-30
+1,Calça Jeans,7,13.45,2021-10-29
+10,Calça Jeans,11,44.28,2021-03-15
+10,Camisa Manga Longa,10,16.82,2021-08-28
+7,Camisa Gola Polo,15,87.5,2021-07-30
+10,Sapato Social,10,34.02,2021-08-09
+5,Camisa Manga Longa,5,54.88,2021-03-22
+4,Camiseta Básica,10,24.64,2021-07-31
+2,Camisa Manga Longa,9,46.41,2021-06-15
+4,Calça Jeans,4,78.96,2021-09-03
+3,Camiseta Básica,17,53.56,2021-06-14
+4,Camisa Manga Longa,11,71.75,2021-11-13
+4,Calça Jeans,8,10.13,2021-08-12
+1,Camisa Manga Longa,15,70.03,2021-08-14
+8,Calça Jeans,2,61.99,2021-03-30
+8,Camiseta Básica,8,55.56,2021-10-09
+4,Camisa Gola Polo,6,83.4,2021-07-14
+9,Camiseta Básica,9,37.58,2021-09-16
+6,Camisa Manga Longa,16,75.06,2021-07-31
+2,Camiseta Básica,15,31.17,2021-08-06
+10,Calça Jeans,19,57.26,2021-06-15
+1,Camisa Gola Polo,11,96.93,2021-04-25
+10,Camiseta Básica,17,31.66,2021-12-08
+6,Camisa Manga Longa,11,48.24,2021-12-02
+5,Camiseta Básica,6,97.0,2021-05-04
+7,Sapato Social,15,36.46,2021-11-26
+10,Camisa Manga Longa,1,14.79,2021-09-05
+8,Calça Jeans,10,84.48,2021-02-27
+3,Camiseta Básica,12,88.6,2021-06-04
+1,Camiseta Básica,10,15.05,2021-12-19
+6,Camiseta Básica,9,62.83,2021-11-22
+3,Camisa Manga Longa,17,60.72,2021-05-25
+9,Camiseta Básica,4,52.64,2021-04-28
+9,Camisa Gola Polo,19,75.13,2021-07-21
+10,Camisa Gola Polo,1,53.58,2021-03-26
+8,Camisa Gola Polo,17,55.85,2021-06-16
+7,Camisa Manga Longa,19,66.92,2021-05-14
+2,Camisa Manga Longa,8,91.48,2021-12-13
+2,Sapato Social,9,46.4,2021-03-29
+4,Camisa Manga Longa,10,26.1,2021-03-23
+6,Sapato Social,13,81.37,2021-05-02
+1,Camisa Gola Polo,9,47.83,2021-01-08
+3,Camisa Gola Polo,10,90.46,2021-10-22
+5,Camiseta Básica,3,50.78,2021-05-14
+8,Calça Jeans,11,46.52,2021-07-08
+1,Camiseta Básica,13,21.49,2021-01-10
+7,Camisa Gola Polo,19,67.13,2021-10-20
+1,Camisa Manga Longa,17,14.18,2021-08-24
+8,Calça Jeans,2,10.32,2021-10-24
+8,Calça Jeans,9,14.0,2021-02-15
+4,Sapato Social,6,21.06,2021-10-29
+4,Calça Jeans,9,30.11,2021-06-17
+6,Camisa Manga Longa,7,97.69,2021-11-08
+4,Camisa Gola Polo,11,33.09,2021-04-30
+3,Camisa Manga Longa,6,20.48,2021-09-07
+5,Camisa Manga Longa,20,67.57,2021-07-31
+3,Calça Jeans,9,39.93,2021-11-01
+8,Calça Jeans,14,92.97,2021-06-14
+10,Sapato Social,8,97.15,2021-05-18
+9,Calça Jeans,6,10.6,2021-11-13
+1,Camiseta Básica,11,40.72,2021-04-24
+4,Camisa Manga Longa,8,82.38,2021-04-11
+10,Camisa Gola Polo,1,88.68,2021-07-21
+1,Camiseta Básica,13,12.17,2021-02-28
+5,Sapato Social,11,41.39,2021-01-06
+6,Calça Jeans,15,81.2,2021-12-13
+8,Camisa Manga Longa,18,64.19,2021-05-21
+10,Camisa Gola Polo,7,47.44,2021-07-17
+7,Calça Jeans,15,67.24,2021-05-02
+7,Camisa Manga Longa,11,83.8,2021-09-02
+1,Camisa Gola Polo,3,54.23,2021-09-06
+7,Calça Jeans,2,20.46,2021-08-13
+6,Camisa Manga Longa,20,28.8,2021-10-13
+6,Camiseta Básica,9,70.24,2021-01-06
+9,Camisa Gola Polo,18,81.52,2021-08-06
+1,Calça Jeans,10,53.27,2021-02-13
+10,Camisa Gola Polo,3,59.1,2021-03-26
+4,Camisa Gola Polo,9,92.72,2021-05-14
+7,Sapato Social,11,48.26,2021-06-22
+3,Sapato Social,5,21.35,2021-03-26
+10,Camisa Gola Polo,2,79.0,2021-08-21
+10,Camiseta Básica,19,55.17,2021-02-06
+6,Sapato Social,6,67.69,2021-01-25
+4,Camisa Manga Longa,16,28.1,2021-10-14
+5,Camiseta Básica,1,23.67,2021-04-03
+9,Camisa Gola Polo,12,68.18,2021-02-21
+6,Sapato Social,18,15.76,2021-04-18
+8,Camisa Gola Polo,3,66.38,2021-10-04
+4,Sapato Social,5,88.74,2021-05-24
+4,Calça Jeans,14,55.12,2021-12-23
+5,Camiseta Básica,8,89.85,2021-08-14
+9,Camisa Gola Polo,7,13.48,2021-12-07
+8,Calça Jeans,12,16.94,2021-09-20
+4,Sapato Social,3,64.71,2021-12-16
+6,Camisa Manga Longa,19,27.62,2021-08-30
+9,Camisa Manga Longa,8,97.64,2021-11-22
+10,Camisa Gola Polo,11,63.02,2021-06-25
+10,Camisa Manga Longa,15,68.33,2021-04-06
+3,Sapato Social,11,35.44,2021-08-25
+4,Sapato Social,11,95.1,2021-11-03
+8,Calça Jeans,1,22.35,2021-05-11
+10,Camisa Gola Polo,12,67.0,2021-03-24
+9,Camiseta Básica,18,37.73,2021-12-01
+6,Camisa Gola Polo,18,60.32,2021-06-18
+9,Camisa Gola Polo,4,73.0,2021-06-24
+8,Camisa Gola Polo,9,42.33,2021-06-25
+10,Camisa Gola Polo,4,18.31,2021-11-18
+2,Camiseta Básica,11,76.85,2021-04-02
+8,Camisa Gola Polo,6,54.08,2021-12-07
+3,Camisa Gola Polo,14,31.91,2021-12-20
+3,Camisa Gola Polo,7,31.53,2021-06-05
+7,Camisa Manga Longa,14,78.88,2021-05-22
+2,Camisa Manga Longa,9,81.77,2021-11-03
+10,Camisa Gola Polo,7,88.75,2021-09-28
+1,Camisa Manga Longa,2,41.58,2021-09-16
+1,Sapato Social,18,31.26,2021-02-04
+5,Calça Jeans,8,87.73,2021-10-04
+5,Camisa Gola Polo,17,43.02,2021-04-18
+10,Camisa Gola Polo,15,98.93,2021-10-08
+10,Sapato Social,6,82.99,2021-05-14
+8,Camisa Gola Polo,4,59.2,2021-09-02
+3,Camisa Manga Longa,14,20.79,2021-07-13
+4,Sapato Social,1,18.67,2021-03-27
+7,Camisa Gola Polo,15,13.48,2021-05-03
+7,Sapato Social,10,55.75,2021-12-16
+1,Calça Jeans,4,10.05,2021-07-24
+6,Sapato Social,1,18.41,2021-08-31
+8,Calça Jeans,8,17.08,2021-02-18
+1,Sapato Social,4,95.86,2021-02-16
+4,Camisa Manga Longa,3,90.51,2021-12-10
+1,Camiseta Básica,7,96.81,2021-09-20
+1,Camiseta Básica,6,32.58,2021-10-01
+8,Camiseta Básica,9,60.76,2021-03-24
+2,Calça Jeans,17,33.19,2021-04-09
+8,Calça Jeans,15,74.34,2021-07-05
+8,Camiseta Básica,9,53.46,2021-01-09
+1,Calça Jeans,5,62.53,2021-10-25
+9,Camisa Manga Longa,6,97.34,2021-08-10
+6,Camisa Manga Longa,9,20.61,2021-11-23
+3,Camisa Gola Polo,17,93.86,2021-12-09
+7,Calça Jeans,6,96.48,2021-02-24
+9,Camiseta Básica,5,51.67,2021-04-08
+5,Camisa Manga Longa,16,46.29,2021-06-08
+2,Sapato Social,7,15.74,2021-10-16
+7,Camisa Gola Polo,6,34.81,2021-10-10
+4,Camisa Manga Longa,8,84.77,2021-05-21
+7,Camiseta Básica,8,12.74,2021-01-09
+7,Camisa Manga Longa,18,98.63,2021-03-07
+4,Camiseta Básica,14,42.49,2021-11-29
+6,Camisa Manga Longa,6,26.75,2021-12-16
+6,Sapato Social,1,66.21,2021-07-25
+3,Camisa Manga Longa,8,49.47,2021-01-07
+9,Calça Jeans,11,57.5,2021-10-10
+9,Camisa Gola Polo,17,38.2,2021-01-25
+2,Sapato Social,8,14.0,2021-11-27
+2,Camiseta Básica,2,69.11,2021-11-10
+8,Camisa Manga Longa,19,58.38,2021-01-13
+1,Sapato Social,12,24.47,2021-07-29
+8,Camisa Gola Polo,16,69.78,2021-04-15
+1,Camiseta Básica,2,46.98,2021-07-27
+4,Sapato Social,13,42.23,2021-09-24
+8,Camiseta Básica,20,31.75,2021-06-27
+3,Sapato Social,19,13.4,2021-04-12
+9,Camisa Manga Longa,18,85.69,2021-09-25
+2,Calça Jeans,3,85.17,2021-05-16
+8,Camisa Manga Longa,20,99.66,2021-11-23
+1,Calça Jeans,19,75.38,2021-08-24
+8,Camisa Manga Longa,18,30.06,2021-05-08
+4,Sapato Social,12,76.41,2021-06-01
+5,Camisa Gola Polo,16,95.32,2021-04-17
+3,Camisa Gola Polo,11,65.78,2021-05-06
+3,Camiseta Básica,12,68.27,2021-01-29
+4,Camiseta Básica,17,94.49,2021-10-22
+8,Sapato Social,17,98.5,2021-03-30
+10,Camisa Gola Polo,15,48.5,2021-10-24
+5,Camiseta Básica,13,64.39,2021-05-03
+7,Camiseta Básica,19,20.84,2021-03-04
+2,Sapato Social,19,56.08,2021-12-22
+4,Calça Jeans,11,80.27,2021-04-24
+9,Camiseta Básica,13,26.23,2021-01-05
+7,Camisa Gola Polo,12,10.66,2021-12-19
+7,Camisa Manga Longa,7,16.24,2021-06-06
+9,Sapato Social,9,21.81,2021-08-21
+1,Camisa Manga Longa,4,52.22,2021-04-01
+5,Camisa Manga Longa,7,92.65,2021-01-05
+9,Camisa Gola Polo,9,27.57,2021-12-17
+9,Camisa Manga Longa,19,54.03,2021-03-22
+9,Camisa Manga Longa,4,15.34,2021-02-13
+9,Camisa Gola Polo,12,90.89,2021-03-24
+4,Camisa Manga Longa,8,42.13,2021-06-01
+10,Camiseta Básica,4,35.62,2021-06-03
+8,Camisa Manga Longa,16,66.48,2021-10-04
+1,Camiseta Básica,9,15.47,2021-11-10
+7,Sapato Social,19,81.33,2021-09-28
+9,Camiseta Básica,2,72.45,2021-01-11
+10,Camisa Manga Longa,1,90.38,2021-08-09
+4,Camisa Gola Polo,10,22.0,2021-08-17
+1,Sapato Social,3,79.34,2021-08-18
+5,Calça Jeans,7,73.47,2021-05-25
+10,Camisa Gola Polo,4,57.77,2021-08-25
+9,Sapato Social,17,57.5,2021-09-19
+7,Camiseta Básica,12,27.59,2021-10-08
+5,Calça Jeans,14,97.9,2021-10-31
+2,Camisa Manga Longa,19,23.79,2021-05-29
+1,Camisa Manga Longa,5,43.59,2021-05-16
+7,Camisa Manga Longa,18,61.34,2021-10-16
+10,Calça Jeans,11,68.44,2021-01-11
+10,Calça Jeans,18,15.12,2021-01-18
+1,Sapato Social,4,95.49,2021-03-21
+10,Camiseta Básica,17,99.69,2021-05-12
+5,Camisa Manga Longa,3,63.48,2021-12-22
+10,Sapato Social,12,97.92,2021-01-01
+1,Camisa Manga Longa,8,81.4,2021-04-12
+6,Sapato Social,14,87.61,2021-09-07
+7,Sapato Social,19,25.4,2021-02-26
+5,Calça Jeans,4,48.75,2021-01-22
+7,Camisa Gola Polo,19,17.62,2021-04-20
+5,Sapato Social,11,90.76,2021-09-05
+8,Camisa Manga Longa,9,84.75,2021-05-01
+8,Camisa Gola Polo,1,73.63,2021-05-30
+1,Camisa Gola Polo,19,77.83,2021-04-29
+6,Camiseta Básica,10,98.72,2021-07-30
+9,Camiseta Básica,1,29.99,2021-12-31
+9,Camiseta Básica,11,34.74,2021-07-21
+4,Camisa Manga Longa,20,84.36,2021-06-28
+6,Camiseta Básica,15,35.86,2021-09-26
+8,Camiseta Básica,6,29.43,2021-07-27
+9,Camiseta Básica,10,52.95,2021-11-04
+4,Camiseta Básica,2,51.2,2021-02-14
+5,Camiseta Básica,12,20.92,2021-05-31
+4,Camiseta Básica,11,77.69,2021-08-26
+1,Camisa Manga Longa,19,68.82,2021-09-21
+7,Camisa Manga Longa,6,51.85,2021-02-08
+3,Camisa Manga Longa,14,38.06,2021-12-30
+7,Sapato Social,17,40.91,2021-02-14
+4,Sapato Social,5,27.01,2021-05-31
+8,Camisa Gola Polo,14,30.0,2021-07-18
+7,Camiseta Básica,4,19.75,2021-04-12
+2,Sapato Social,13,37.4,2021-07-14
+7,Camisa Gola Polo,20,49.46,2021-04-27
+6,Sapato Social,11,77.38,2021-02-01
+7,Camisa Manga Longa,10,97.74,2021-08-19
+3,Camiseta Básica,1,53.38,2021-08-28
+6,Camisa Gola Polo,10,44.16,2021-11-07
+7,Sapato Social,2,62.2,2021-04-14
+5,Calça Jeans,3,75.62,2021-06-22
+2,Sapato Social,13,36.08,2021-02-17
+4,Camiseta Básica,20,22.75,2021-10-16
+2,Calça Jeans,4,32.9,2021-05-07
+9,Camiseta Básica,6,19.13,2021-03-19
+4,Camisa Gola Polo,2,78.42,2021-05-14
+9,Sapato Social,5,80.82,2021-07-07
+4,Camisa Gola Polo,20,43.52,2021-06-05
+8,Camisa Gola Polo,9,40.68,2021-09-29
+6,Sapato Social,16,11.72,2021-09-26
+8,Camisa Manga Longa,10,15.54,2021-04-21
+6,Camiseta Básica,16,83.07,2021-10-10
+3,Camisa Gola Polo,10,42.61,2021-02-16
+2,Camiseta Básica,1,76.98,2021-12-29
+9,Camisa Manga Longa,16,83.08,2021-08-18
+10,Calça Jeans,20,31.08,2021-12-18
+3,Camiseta Básica,10,27.83,2021-02-24
+4,Camisa Manga Longa,8,58.15,2021-10-05
+2,Calça Jeans,14,87.4,2021-01-12
+4,Sapato Social,14,78.29,2021-09-24
+2,Camisa Gola Polo,2,88.74,2021-10-17
+7,Sapato Social,20,93.42,2021-05-20
+4,Sapato Social,15,73.34,2021-02-13
+2,Sapato Social,7,96.67,2021-08-15
+10,Sapato Social,15,57.39,2021-11-06
+6,Sapato Social,7,37.68,2021-09-29
+7,Camiseta Básica,6,42.91,2021-05-01
+4,Camisa Gola Polo,13,88.82,2021-03-28
+9,Sapato Social,20,81.57,2021-08-12
+2,Sapato Social,20,22.88,2021-12-02
+5,Camiseta Básica,15,78.42,2021-06-21
+5,Sapato Social,4,70.42,2021-11-02
+3,Sapato Social,7,65.18,2021-03-23
+5,Calça Jeans,12,95.09,2021-07-24
+4,Calça Jeans,7,50.14,2021-12-03
+3,Camiseta Básica,6,82.43,2021-11-07
+7,Camisa Manga Longa,17,17.35,2021-10-21
+3,Camiseta Básica,17,61.8,2021-07-28
+2,Camiseta Básica,6,44.95,2021-05-23
+3,Calça Jeans,3,74.26,2021-08-22
+7,Sapato Social,18,65.98,2021-12-23
+2,Sapato Social,4,22.53,2021-07-26
+3,Camisa Manga Longa,11,63.67,2021-05-29
+10,Camisa Manga Longa,13,68.72,2021-03-04
+1,Camisa Gola Polo,6,86.66,2021-09-03
+4,Sapato Social,14,96.41,2021-09-11
+6,Camisa Gola Polo,9,30.82,2021-03-29
+8,Calça Jeans,10,64.78,2021-02-01
+1,Sapato Social,2,84.34,2021-10-15
+2,Camisa Gola Polo,15,30.11,2021-09-13
+1,Calça Jeans,6,33.68,2021-03-11
+2,Camisa Gola Polo,9,64.64,2021-02-28
+8,Sapato Social,4,50.62,2021-12-06
+8,Camisa Manga Longa,5,76.29,2021-10-11
+10,Camisa Manga Longa,1,51.16,2021-11-05
+8,Camisa Gola Polo,15,74.87,2021-03-31
+7,Calça Jeans,6,30.03,2021-07-28
+3,Camisa Manga Longa,16,96.02,2021-03-12
+9,Camisa Manga Longa,20,38.85,2021-02-28
+9,Calça Jeans,18,88.23,2021-05-06
+1,Camiseta Básica,17,54.31,2021-01-11
+3,Camisa Gola Polo,12,54.51,2021-12-14
+8,Sapato Social,16,85.28,2021-09-25
+10,Camisa Gola Polo,9,83.51,2021-12-27
+10,Calça Jeans,12,76.72,2021-06-02
+9,Sapato Social,14,94.05,2021-05-11
+1,Camisa Manga Longa,12,53.57,2021-09-22
+10,Camisa Manga Longa,7,13.98,2021-02-09
+3,Sapato Social,6,88.7,2021-08-28
+1,Calça Jeans,7,36.33,2021-08-14
+6,Camiseta Básica,3,52.34,2021-07-22
+7,Camisa Manga Longa,19,95.07,2021-12-12
+4,Calça Jeans,20,59.82,2021-11-20
+9,Camisa Gola Polo,5,55.19,2021-07-12
+10,Camiseta Básica,17,47.66,2021-08-31
+2,Sapato Social,4,83.44,2021-05-30
+2,Camiseta Básica,8,85.6,2021-04-02
+1,Camisa Manga Longa,11,16.76,2021-08-07
+9,Camiseta Básica,20,14.13,2021-05-02
+3,Camisa Manga Longa,3,53.19,2021-11-23
+5,Calça Jeans,14,59.27,2021-01-22
+3,Camiseta Básica,9,10.68,2021-03-01
+5,Camisa Gola Polo,20,83.34,2021-03-01
+8,Calça Jeans,12,18.04,2021-05-09
+2,Calça Jeans,16,31.73,2021-09-29
+1,Camisa Gola Polo,4,40.7,2021-05-28
+9,Calça Jeans,11,10.95,2021-03-13
+8,Sapato Social,8,76.05,2021-05-22
+1,Camisa Manga Longa,6,64.78,2021-02-24
+5,Camiseta Básica,17,28.63,2021-09-23
+2,Camisa Gola Polo,4,23.34,2021-10-02
+2,Calça Jeans,16,17.14,2021-10-23
+1,Camiseta Básica,11,95.14,2021-03-18
+3,Camiseta Básica,5,29.18,2021-01-06
+4,Sapato Social,9,14.79,2021-05-01
+5,Calça Jeans,7,77.91,2021-01-27
+2,Camisa Manga Longa,17,47.71,2021-01-18
+3,Calça Jeans,20,11.31,2021-08-20
+1,Sapato Social,15,56.28,2021-07-10
+5,Sapato Social,8,59.6,2021-11-30
+1,Sapato Social,7,77.11,2021-06-24
+7,Camiseta Básica,17,62.71,2021-09-18
+6,Camiseta Básica,8,72.03,2021-05-06
+10,Camisa Gola Polo,11,90.68,2021-05-28
+3,Camisa Manga Longa,1,16.36,2021-10-15
+4,Sapato Social,17,84.24,2021-12-19
+10,Camiseta Básica,2,32.14,2021-07-16
+6,Calça Jeans,9,68.9,2021-02-22
+6,Camisa Gola Polo,9,76.25,2021-11-08
+3,Camiseta Básica,5,85.93,2021-03-03
+2,Camisa Manga Longa,9,73.34,2021-08-23
+4,Sapato Social,14,78.89,2021-02-12
+5,Sapato Social,9,13.58,2021-05-08
+9,Camisa Manga Longa,7,80.03,2021-01-22
+8,Camiseta Básica,16,15.62,2021-08-22
+9,Camiseta Básica,20,80.98,2021-06-29
+2,Calça Jeans,20,95.81,2021-03-10
+7,Camiseta Básica,1,45.62,2021-09-25
+5,Calça Jeans,15,51.03,2021-07-14
+5,Camisa Gola Polo,9,14.13,2021-10-23
+2,Camisa Manga Longa,3,68.55,2021-11-03
+10,Sapato Social,17,37.76,2021-12-04
+5,Sapato Social,12,60.3,2021-08-01
+8,Camisa Manga Longa,17,47.41,2021-10-10
+9,Camiseta Básica,6,27.25,2021-04-22
+2,Sapato Social,5,58.41,2021-01-26
+7,Camisa Gola Polo,5,68.96,2021-04-06
+4,Camisa Gola Polo,8,66.95,2021-03-18
+5,Camisa Manga Longa,18,88.7,2021-10-04
+3,Sapato Social,12,90.73,2021-09-11
+10,Camisa Manga Longa,14,13.68,2021-03-07
+9,Sapato Social,17,91.61,2021-07-08
+5,Calça Jeans,13,97.21,2021-09-13
+6,Camisa Manga Longa,20,40.36,2021-03-02
+3,Camiseta Básica,3,17.23,2021-07-24
+3,Camisa Manga Longa,16,86.79,2021-11-03
+5,Camiseta Básica,10,35.12,2021-04-08
+6,Calça Jeans,16,66.86,2021-04-07
+6,Calça Jeans,8,43.34,2021-01-08
+1,Sapato Social,7,81.28,2021-05-14
+3,Camisa Gola Polo,19,28.57,2021-05-28
+1,Camisa Manga Longa,19,37.22,2021-04-16
+7,Sapato Social,7,16.88,2021-06-13
+5,Calça Jeans,6,80.68,2021-12-26
+1,Calça Jeans,18,74.58,2021-09-15
+2,Camisa Manga Longa,14,15.1,2021-09-17
+8,Camisa Gola Polo,6,95.76,2021-07-18
+4,Sapato Social,2,55.53,2021-01-18
+2,Calça Jeans,12,36.37,2021-02-19
+7,Camisa Gola Polo,17,69.47,2021-08-14
+9,Calça Jeans,8,35.0,2021-06-21
+9,Calça Jeans,17,21.67,2021-08-03
+5,Camisa Manga Longa,16,70.62,2021-07-16
+2,Sapato Social,5,88.38,2021-11-19
+3,Calça Jeans,1,75.5,2021-10-15
+4,Camisa Gola Polo,8,17.27,2021-09-14
+6,Camiseta Básica,3,65.83,2021-01-27
+1,Sapato Social,14,95.38,2021-06-19
+10,Calça Jeans,3,90.75,2021-08-24
+8,Camisa Gola Polo,1,52.72,2021-03-08
+1,Sapato Social,18,31.81,2021-01-19
+1,Camisa Manga Longa,16,53.54,2021-08-07
+9,Camisa Manga Longa,18,99.08,2021-09-19
+1,Camiseta Básica,10,21.81,2021-08-11
+9,Camiseta Básica,19,75.78,2021-04-21
+6,Camiseta Básica,8,10.62,2021-10-30
+4,Sapato Social,9,26.86,2021-08-11
+8,Calça Jeans,3,75.25,2021-11-21
+4,Camisa Gola Polo,19,54.43,2021-01-14
+4,Sapato Social,19,13.71,2021-06-15
+6,Camiseta Básica,4,83.99,2021-01-27
+6,Sapato Social,16,35.37,2021-07-01
+7,Calça Jeans,5,72.88,2021-01-21
+1,Camisa Manga Longa,16,89.2,2021-08-06
+8,Sapato Social,3,86.86,2021-12-20
+7,Camisa Gola Polo,12,89.92,2021-11-06
+4,Camisa Manga Longa,19,70.95,2021-02-03
+7,Camiseta Básica,18,50.04,2021-03-11
+8,Camisa Gola Polo,11,53.6,2021-04-09
+3,Calça Jeans,12,66.11,2021-12-12
+2,Camisa Gola Polo,12,64.58,2021-09-08
+9,Calça Jeans,20,75.88,2021-03-25
+8,Calça Jeans,1,74.28,2021-01-14
+1,Camisa Manga Longa,13,12.12,2021-11-07
+4,Calça Jeans,15,18.87,2021-05-06
+2,Camiseta Básica,14,44.7,2021-05-19
+2,Calça Jeans,2,94.67,2021-08-31
+9,Camisa Manga Longa,1,23.04,2021-08-29
+6,Camiseta Básica,1,98.19,2021-11-13
+9,Camisa Manga Longa,6,13.14,2021-01-02
+4,Camisa Manga Longa,12,92.27,2021-08-09
+8,Camiseta Básica,1,29.65,2021-02-10
+9,Calça Jeans,7,73.3,2021-03-30
+9,Camiseta Básica,17,27.81,2021-04-22
+6,Camisa Manga Longa,3,69.16,2021-06-11
+8,Sapato Social,8,41.81,2021-01-24
+3,Calça Jeans,20,54.18,2021-03-30
+6,Camisa Gola Polo,18,56.14,2021-12-12
+3,Camisa Manga Longa,17,82.37,2021-11-17
+2,Camiseta Básica,12,41.59,2021-07-06
+9,Camisa Gola Polo,16,13.54,2021-06-26
+4,Camisa Manga Longa,11,70.53,2021-09-29
+1,Calça Jeans,5,38.81,2021-11-12
+1,Camiseta Básica,7,71.49,2021-02-22
+9,Calça Jeans,20,86.67,2021-07-02
+10,Calça Jeans,1,37.72,2021-09-11
+1,Camisa Manga Longa,4,38.09,2021-07-09
+3,Camisa Gola Polo,13,27.75,2021-08-07
+2,Camisa Gola Polo,9,52.75,2021-05-03
+1,Camisa Gola Polo,2,55.05,2021-07-15
+10,Sapato Social,3,64.62,2021-09-13
+6,Calça Jeans,15,28.6,2021-03-03
+9,Calça Jeans,12,26.18,2021-09-07
+6,Camisa Gola Polo,9,10.33,2021-10-10
+8,Calça Jeans,18,66.41,2021-11-06
+3,Camiseta Básica,12,91.84,2021-03-04
+2,Calça Jeans,8,17.1,2021-10-25
+7,Camiseta Básica,7,63.94,2021-03-25
+2,Camiseta Básica,10,90.98,2021-04-12
+10,Camisa Manga Longa,18,30.6,2021-03-22
+7,Calça Jeans,14,85.75,2021-11-08
+8,Camisa Gola Polo,15,34.24,2021-07-11
+8,Sapato Social,13,76.8,2021-05-02
+2,Calça Jeans,5,19.06,2021-06-02
+10,Camisa Gola Polo,10,73.03,2021-05-24
+6,Calça Jeans,13,29.92,2021-07-03
+4,Camiseta Básica,8,40.92,2021-06-15
+7,Camisa Manga Longa,13,99.05,2021-11-19
+1,Camisa Manga Longa,20,21.29,2021-03-08
+7,Camisa Manga Longa,8,59.53,2021-09-25
+3,Camisa Gola Polo,16,76.89,2021-10-27
+3,Sapato Social,11,17.68,2021-10-22
+9,Camisa Manga Longa,2,94.69,2021-11-26
+8,Camisa Manga Longa,18,15.68,2021-08-02
+3,Camiseta Básica,11,37.82,2021-02-09
+5,Camiseta Básica,10,26.11,2021-12-05
+4,Camiseta Básica,7,66.71,2021-12-06
+5,Camiseta Básica,19,56.58,2021-11-02
+8,Camiseta Básica,11,45.35,2021-12-06
+9,Calça Jeans,4,20.41,2021-11-23
+4,Calça Jeans,13,80.19,2021-01-27
+5,Camisa Gola Polo,6,91.76,2021-03-26
+10,Camiseta Básica,16,95.11,2021-06-20
+8,Calça Jeans,18,63.54,2021-11-21
+10,Camiseta Básica,17,64.03,2021-09-12
+4,Camisa Manga Longa,4,16.7,2021-01-23
+3,Camisa Manga Longa,15,70.49,2021-08-23
+1,Sapato Social,16,65.56,2021-11-01
+7,Calça Jeans,1,80.09,2021-09-27
+5,Camiseta Básica,5,97.23,2021-07-24
+9,Sapato Social,17,68.11,2021-01-21
+5,Camisa Gola Polo,4,62.96,2021-10-06
+1,Camisa Gola Polo,8,48.9,2021-06-04
+9,Camiseta Básica,10,20.06,2021-05-12
+6,Camisa Gola Polo,20,11.95,2021-01-11
+1,Camisa Manga Longa,2,93.7,2021-09-08
+4,Camisa Manga Longa,6,62.1,2021-10-03
+6,Calça Jeans,3,38.89,2021-04-04
+9,Calça Jeans,18,39.72,2021-08-20
+8,Camisa Gola Polo,18,56.39,2021-07-26
+2,Calça Jeans,17,46.63,2021-08-29
+7,Sapato Social,18,47.37,2021-09-10
+4,Camisa Manga Longa,10,72.8,2021-12-23
+7,Calça Jeans,3,59.22,2021-10-21
+3,Camisa Manga Longa,10,13.81,2021-06-19
+7,Camisa Manga Longa,15,35.35,2021-08-21
+3,Camiseta Básica,17,56.87,2021-06-16
+10,Sapato Social,15,91.45,2021-08-24
+8,Camisa Gola Polo,11,59.77,2021-09-22
+8,Sapato Social,4,55.12,2021-10-30
+7,Calça Jeans,11,70.64,2021-04-23
+10,Camiseta Básica,15,45.41,2021-06-18
+9,Sapato Social,18,87.41,2021-10-02
+4,Sapato Social,11,80.83,2021-08-25
+6,Camisa Gola Polo,11,20.02,2021-09-22
+2,Calça Jeans,12,98.59,2021-05-22
+3,Camisa Gola Polo,4,40.75,2021-11-03
+9,Camisa Gola Polo,20,72.23,2021-10-24
+7,Calça Jeans,5,59.66,2021-12-29
+3,Camisa Gola Polo,8,33.8,2021-12-09
+9,Sapato Social,20,34.99,2021-12-18
+9,Calça Jeans,9,55.6,2021-06-06
+4,Camisa Gola Polo,4,22.78,2021-07-12
+5,Sapato Social,6,97.2,2021-12-03
+10,Calça Jeans,11,47.07,2021-08-22
+10,Calça Jeans,7,22.54,2021-10-27
+2,Calça Jeans,10,53.12,2021-10-19
+10,Camisa Gola Polo,19,60.61,2021-02-20
+1,Camisa Gola Polo,10,96.13,2021-10-01
+4,Calça Jeans,17,61.45,2021-04-25
+6,Camisa Manga Longa,14,13.07,2021-10-01
+3,Sapato Social,10,29.59,2021-02-16
+8,Sapato Social,10,36.77,2021-04-19
+5,Camisa Manga Longa,16,78.82,2021-01-13
+9,Camisa Gola Polo,12,33.86,2021-04-04
+8,Calça Jeans,19,22.93,2021-07-16
+2,Camisa Gola Polo,7,93.72,2021-10-27
+3,Camisa Gola Polo,16,61.17,2021-07-28
+4,Camisa Manga Longa,8,11.92,2021-01-13
+2,Camiseta Básica,18,80.52,2021-07-19
+2,Camisa Gola Polo,17,55.21,2021-06-04
+3,Camisa Manga Longa,2,37.07,2021-02-20
+6,Calça Jeans,17,81.72,2021-10-08
+9,Camisa Manga Longa,7,34.4,2021-04-24
+10,Camisa Gola Polo,5,79.94,2021-08-19
+8,Camisa Manga Longa,12,24.08,2021-12-25
+2,Calça Jeans,2,87.8,2021-06-09
+3,Camiseta Básica,11,90.04,2021-06-02
+10,Camisa Manga Longa,9,47.82,2021-12-01
+2,Sapato Social,11,43.18,2021-04-11
+8,Sapato Social,18,64.08,2021-06-29
+2,Camiseta Básica,7,71.46,2021-11-10
+10,Sapato Social,17,11.16,2021-09-15
+10,Camiseta Básica,14,40.97,2021-12-01
+10,Calça Jeans,17,49.04,2021-03-01
+7,Camiseta Básica,1,13.3,2021-06-06
+8,Calça Jeans,6,27.37,2021-10-06
+1,Camisa Manga Longa,11,35.68,2021-03-08
+10,Camisa Gola Polo,18,94.65,2021-01-15
+8,Sapato Social,8,50.59,2021-10-17
+5,Camiseta Básica,10,75.88,2021-04-16
+10,Calça Jeans,2,22.55,2021-06-10
+7,Camisa Manga Longa,8,59.68,2021-03-20
+3,Sapato Social,3,56.6,2021-03-05
+7,Camisa Gola Polo,5,93.51,2021-02-22
+7,Calça Jeans,14,91.48,2021-09-08
+4,Camisa Gola Polo,4,86.67,2021-04-15
+8,Calça Jeans,2,14.24,2021-02-02
+7,Calça Jeans,8,11.12,2021-04-14
+9,Camisa Manga Longa,9,81.02,2021-06-17
+8,Calça Jeans,20,22.64,2021-12-19
+5,Camisa Gola Polo,20,79.23,2021-03-12
+2,Calça Jeans,20,53.65,2021-05-26
+9,Calça Jeans,13,14.57,2021-04-07
+2,Camiseta Básica,14,74.5,2021-05-03
+10,Calça Jeans,10,85.96,2021-10-17
+9,Camisa Gola Polo,12,32.41,2021-01-12
+9,Camisa Gola Polo,6,83.11,2021-08-29
+2,Camiseta Básica,16,78.69,2021-09-15
+8,Camiseta Básica,5,29.16,2021-03-13
+2,Camisa Gola Polo,13,92.27,2021-01-05
+3,Camisa Manga Longa,15,61.6,2021-02-24
+7,Calça Jeans,9,63.64,2021-12-07
+8,Camisa Manga Longa,15,53.23,2021-05-14
+7,Camisa Manga Longa,8,93.88,2021-04-08
+1,Camisa Gola Polo,12,60.81,2021-04-24
+4,Calça Jeans,7,55.74,2021-01-09
+9,Camisa Manga Longa,13,77.44,2021-12-23
+2,Camisa Gola Polo,10,16.93,2021-03-06
+1,Camisa Gola Polo,17,64.4,2021-06-11
+8,Camisa Manga Longa,12,25.29,2021-11-24
+5,Camisa Manga Longa,13,31.52,2021-03-06
+10,Sapato Social,9,81.44,2021-10-16
+7,Camiseta Básica,5,30.25,2021-02-18
+10,Calça Jeans,6,17.97,2021-09-25
+2,Camisa Manga Longa,4,58.03,2021-03-11
+2,Sapato Social,2,42.02,2021-04-10
+4,Camisa Gola Polo,6,57.45,2021-10-09
+3,Calça Jeans,9,40.23,2021-03-07
+8,Camiseta Básica,16,32.15,2021-04-13
+8,Camiseta Básica,7,13.4,2021-02-14
+9,Camiseta Básica,8,20.24,2021-12-27
+3,Camisa Manga Longa,15,67.71,2021-10-27
+4,Camiseta Básica,12,54.01,2021-01-02
+9,Camisa Gola Polo,15,31.88,2021-09-05
+5,Camiseta Básica,14,92.38,2021-03-14
+4,Sapato Social,6,99.61,2021-12-25
+9,Sapato Social,4,26.98,2021-01-24
+5,Camiseta Básica,19,61.54,2021-12-07
+1,Camisa Manga Longa,1,32.25,2021-05-17
+7,Calça Jeans,9,74.1,2021-05-22
+7,Calça Jeans,16,61.56,2021-12-24
+5,Camiseta Básica,11,84.49,2021-06-04
+5,Sapato Social,15,10.41,2021-10-16
+5,Camisa Gola Polo,1,92.5,2021-11-22
+5,Camisa Gola Polo,17,80.92,2021-06-20
+4,Sapato Social,7,96.85,2021-12-04
+1,Camiseta Básica,6,79.91,2021-11-08
+5,Camisa Manga Longa,9,68.79,2021-09-01
+6,Camisa Gola Polo,17,69.15,2021-11-24
+2,Camiseta Básica,18,12.44,2021-10-08
+8,Sapato Social,20,44.74,2021-12-13
+10,Camiseta Básica,13,52.65,2021-06-09
+9,Camisa Gola Polo,1,11.0,2021-06-07
+2,Camisa Gola Polo,15,61.69,2021-01-03
+8,Sapato Social,8,17.46,2021-09-23
+9,Camisa Gola Polo,19,29.16,2021-03-20
+8,Sapato Social,2,59.93,2021-03-28
+8,Camiseta Básica,19,38.42,2021-01-30
+10,Calça Jeans,11,11.5,2021-10-02
+4,Camisa Manga Longa,9,67.9,2021-10-31
+9,Sapato Social,2,82.69,2021-07-28
+3,Camisa Gola Polo,18,91.23,2021-12-21
+10,Camisa Gola Polo,10,17.0,2021-10-25
+7,Calça Jeans,1,13.77,2021-01-18
+1,Camiseta Básica,6,72.47,2021-02-27
+4,Camisa Gola Polo,2,85.65,2021-11-10
+8,Sapato Social,9,81.32,2021-11-20
+2,Camiseta Básica,11,73.66,2021-10-08
+2,Camiseta Básica,12,54.02,2021-10-12
+10,Camisa Manga Longa,15,44.65,2021-01-01
+10,Camiseta Básica,9,88.27,2021-10-20
+10,Sapato Social,3,24.09,2021-12-06
+8,Camisa Gola Polo,5,72.99,2021-06-26
+3,Camiseta Básica,5,24.28,2021-08-23
+10,Camiseta Básica,6,40.19,2021-05-09
+7,Camisa Gola Polo,8,56.24,2021-06-23
+9,Calça Jeans,14,84.28,2021-01-04
+2,Camiseta Básica,11,34.02,2021-09-04
+10,Sapato Social,6,70.83,2021-05-11
+9,Camisa Manga Longa,6,87.13,2021-03-09
+4,Calça Jeans,2,60.71,2021-05-18
+7,Sapato Social,13,77.37,2021-12-29
+7,Camisa Gola Polo,6,18.11,2021-02-06
+7,Sapato Social,17,28.39,2021-08-06
+1,Camisa Manga Longa,5,78.89,2021-03-28
+9,Camisa Manga Longa,15,92.15,2021-08-01
+2,Camisa Gola Polo,7,33.19,2021-02-14
+5,Camiseta Básica,9,70.33,2021-05-31
+4,Camisa Gola Polo,4,66.45,2021-05-21
+3,Camisa Manga Longa,19,33.72,2021-10-09
+10,Sapato Social,1,12.42,2021-12-24
+8,Camiseta Básica,3,22.11,2021-03-03
+2,Camiseta Básica,3,51.28,2021-03-19
+2,Camisa Gola Polo,1,48.98,2021-12-11
+8,Calça Jeans,1,67.09,2021-12-25
+8,Camisa Manga Longa,2,70.77,2021-09-11
+10,Calça Jeans,13,58.56,2021-07-11
+6,Calça Jeans,4,91.71,2021-05-26
+4,Camisa Gola Polo,8,34.49,2021-04-18
+7,Calça Jeans,3,75.21,2021-03-06
+6,Camisa Manga Longa,7,45.04,2021-04-09
+1,Camisa Gola Polo,13,77.32,2021-02-09
+9,Camisa Manga Longa,19,85.19,2021-04-02
+7,Calça Jeans,9,90.68,2021-01-05
+9,Calça Jeans,15,95.51,2021-10-06
+10,Camisa Manga Longa,3,77.79,2021-10-20
+5,Calça Jeans,17,78.88,2021-11-06
+1,Camisa Manga Longa,2,95.23,2021-06-21
+8,Camiseta Básica,10,25.74,2021-12-23
+3,Sapato Social,18,74.61,2021-01-07
+3,Camisa Gola Polo,6,69.47,2021-10-27
+3,Calça Jeans,11,95.98,2021-09-23
+5,Calça Jeans,1,30.13,2021-03-12
+5,Camiseta Básica,9,44.31,2021-04-10
+10,Calça Jeans,1,37.46,2021-02-06
+10,Camisa Manga Longa,20,11.09,2021-12-25
+4,Camiseta Básica,2,23.22,2021-03-01
+8,Camiseta Básica,6,14.46,2021-07-07
+2,Calça Jeans,13,26.13,2021-05-08
+5,Calça Jeans,11,92.66,2021-11-07
+1,Sapato Social,4,47.1,2021-05-26
+3,Camiseta Básica,11,28.72,2021-11-28
+10,Camisa Manga Longa,3,20.44,2021-03-01
+7,Calça Jeans,5,35.98,2021-05-15
+1,Sapato Social,15,47.38,2021-10-20
+1,Camisa Manga Longa,6,16.22,2021-05-29
+6,Sapato Social,1,71.21,2021-12-03
+1,Calça Jeans,15,80.5,2021-06-14
+3,Calça Jeans,6,31.52,2021-11-17
+7,Camisa Manga Longa,6,22.35,2021-08-09
