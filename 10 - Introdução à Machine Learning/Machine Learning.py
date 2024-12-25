@@ -120,5 +120,41 @@ print('A nova flor pertence à classe: ',previsao[0])
 
 # 05 - Árvores de Decisão
 
+# Decision Trees (Árvores de Decisão)
+
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import train_test_split
+import random
+
+random.seed(42)
+nota_anterior = [random.randint(0,10) for _ in range(100)]
+horas_estudo = [random.randint(0,10) for _ in range(100)]
+passou = [1 if nota >=5 else 0 for nota in nota_anterior]
+dados = pd.DataFrame({'nota_anterior': nota_anterior, 'horas_estudo':horas_estudo, 'passou':passou})
+
+dados
+
+X = dados[['nota_anterior','horas_estudo']]
+y = dados['passou']
+
+X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.2,random_state=42)
+clf = DecisionTreeClassifier(max_depth=3)
+clf.fit(X_train, y_train)
+
+exatidao = clf.score(X_test,y_test)
+print(f'A exatidão do modelo é de {exatidao:2}')
+
+novos_dados = pd.DataFrame({'nota_anterior':[4],'horas_estudo':[1]})
+previsao = clf.predict(novos_dados)
+
+if previsao[0] == 1:
+    print('O aluno passará na prova!')
+else:
+    print('O aluno não passará na prova :(')
+
+
+
+
 
 
