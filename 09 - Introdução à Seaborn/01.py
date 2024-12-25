@@ -35,6 +35,32 @@ dados_joint
 
 sns.jointplot(x='Altura', y='Largura', data=dados_joint, kind='kde',color='blue')
 
+# Gráficos de Categorização e Relacionamento
+
+dados_vendas = {'Produto':['Produto A', 'Produto B', 'Produto C', 'Produto D'],
+                'Vendas Janeiro':[1000,1500,800,1200],
+                'Vendas Fevereiro':[1200,1700,900,1300],
+                'Vendas Março':[1100,1600,1000,1400]}
+
+dados_vendas
+
+df_vendas = pd.DataFrame(dados_vendas)
+
+df_vendas
+
+# Gráfico
+
+sns.set_style('whitegrid')
+sns.barplot(x='Produto',y='Vendas Fevereiro', data=df_vendas)
+
+# Gráfico de Scatterplot
+
+
+
+
+
+
+
 
 
 
