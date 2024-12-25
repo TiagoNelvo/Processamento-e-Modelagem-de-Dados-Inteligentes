@@ -36,6 +36,8 @@ else:
 
 # 02 - Aprendizado Supervisionado e Não-Supervisionado
 
+#salvando arquivo csv
+
 import csv
 
 vendas = [{'produto': 'Produto A', 'quantidade':10,'preco':100.00},
@@ -52,14 +54,32 @@ with open('Vendas.csv', mode='w',newline='') as arquivo:
         writer.writerow([venda['produto'],venda['quantidade'],venda['preco']])
 
 
-
-
-
-
-
-
 # 03 - Regressão Linear e Logística
 
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+
+#abrindo o arquivo
+dados = pd.read_csv('vendas.csv')
+
+dados
+
+#gerando modelo
+X = dados[['quantidade','preco']]
+modelo = KMeans(n_clusters=3)
+modelo.fit(X)
+
+dados['cluster'] = modelo.labels_
+
+dados
+
+cores = ['red','blue','green']
+for i in range(3):
+    plt.scatter(X[dados['cluster'] == i ]['quantidade'],X[dados['cluster'] == i]['preco'],color=cores[i])
+plt.xlabel('Quantidade de produtos')
+plt.ylabel('Preço')
+plt.show()    
 
 
 # 04 - K-NN
