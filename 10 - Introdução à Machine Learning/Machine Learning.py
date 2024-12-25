@@ -24,12 +24,37 @@ if decisao[0] == 'Feminino':
 else:
     print('Provavelemente é um homem')
 
+#alterando a amostra
+nova_amostra = np.array([[1.90,78]])
+decisao = modelo.predict(nova_amostra)
 
-
-
+if decisao[0] == 'Feminino':
+    print('Provavelmente é uma mulher')
+else:
+    print('Provavelemente é um homem')
 
 
 # 02 - Aprendizado Supervisionado e Não-Supervisionado
+
+import csv
+
+vendas = [{'produto': 'Produto A', 'quantidade':10,'preco':100.00},
+          {'produto': 'Produto B', 'quantidade':5,'preco':50.00},
+          {'produto': 'Produto C', 'quantidade':8,'preco':80.00},
+          {'produto': 'Produto D', 'quantidade':12,'preco':120.00},
+          {'produto': 'Produto E', 'quantidade':13,'preco':130.00},          
+          ]
+
+with open('Vendas.csv', mode='w',newline='') as arquivo:
+    writer = csv.writer(arquivo)
+    writer.writerow(['produto','quantidade','preco'])
+    for venda in vendas:
+        writer.writerow([venda['produto'],venda['quantidade'],venda['preco']])
+
+
+
+
+
 
 
 
