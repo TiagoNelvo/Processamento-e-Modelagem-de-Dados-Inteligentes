@@ -84,6 +84,38 @@ plt.show()
 
 # 04 - K-NN
 
+import pandas as pd
+from sklearn.neighbors import KNeighborsClassifier
+
+comprimento = [1.4,1.3,1.5,4.7,4.5,4.9,5.1,6.0,5.8,6.6,6.9,5.7,6.3,6.1]
+largura = [0.2,0.3,0.1,1.4,1.5,1.5,1.8,2.5,2.3,2.1,2.3,2.8,2.5,2.8]
+classe = ['setosa','setosa','setosa','versicolor','versicolor','versicolor','versicolor',
+         'virginca','virginca','virginca','virginca','virginca','virginca','virginca']
+
+comprimento
+largura
+classe
+
+df_flores =  pd.DataFrame({'comprimento': comprimento, 'largura': largura, 'classe':classe})
+
+df_flores
+
+modelo = KNeighborsClassifier(n_neighbors=3)
+
+X = df_flores[['comprimento','largura']]
+y = df_flores['classe']
+modelo.fit(X,y)
+
+nova_amostra = [[5.0,2.0]]
+previsao = modelo.predict(nova_amostra)
+
+print('A nova flor pertence à classe: ',previsao[0])
+
+#alterando a amostra
+nova_amostra = [[6.0,2.4]]
+previsao = modelo.predict(nova_amostra)
+
+print('A nova flor pertence à classe: ',previsao[0])
 
 
 # 05 - Árvores de Decisão
