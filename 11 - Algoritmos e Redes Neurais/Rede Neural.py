@@ -87,16 +87,59 @@ print('Espécie de flor prevista com base nos valores entregues: ', iris.target_
 
 # Introdução a Redes Neurais Artificiais
 
+#Apresentação do VQGAN + Clip
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 # Avaliação de Modelos de Aprendizado de Máquina
 
+#Avaliação de Modelos
 
+import pandas as pd
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
+comprimento = [1.4,1.3,1.5,4.7,4.5,4.9,5.1,6.0,5.8,6.6,6.9,5.7,6.3,6.1]
+largura = [0.2,0.3,0.1,1.4,1.5,1.5,1.8,2.5,2.3,2.1,2.3,2.8,2.5,2.8]
 
+comprimento
+largura
 
+classe = ['setosa','setosa','setosa','versicolor','versicolor','versicolor','versicolor',
+          'virginica','virginica','virginica','virginica','virginica','virginica','virginica']
 
+df_flores = pd.DataFrame({'comprimento': comprimento,'largura':largura,'classe':classe})
+
+df_flores
+
+modelo_KN = KNeighborsClassifier(n_neighbors=3)
+
+X = df_flores[['comprimento','largura']]
+y = df_flores['classe']
+modelo_KN.fit(X, y)
+
+nova_amostra = [[7.03,3.0]]
+previsao = modelo_KN.predict(nova_amostra)
+
+print('A nova nova flor pertence à classe: ',previsao[0])
+
+# Avaliação do modelo
+
+y_pred = modelo_KN.predict(X)
+print('Acurácia:', accuracy_score(y, y_pred))
+print('Matriz de confusão:',confusion_matrix(y,y_pred))
+print('Relatório de Classificação', classification_report(y,y_pred))
 
 
 
