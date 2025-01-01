@@ -102,11 +102,34 @@ previsao = modelo_gb.predict([dados_entrada])
 print('Preço estimado para a casa: ',previsao[0])
 
 
+# Coleta de dados para Data Storytelling
 
+import matplotlib.pyplot as plt
+import seaborn as sns 
+import numpy as np
 
+mascara = np.zeros_like(boston.corr())
+triangle_indices = np.triu_indices_from(mascara)
+mascara[triangle_indices] = True
 
-
-
+def grafico_heatmap():
+    
+    
+    plt.figure(figsize=(16,10))
+    sns.heatmap(boston.corr(),annot=True,annot_kws={"size":14})
+    sns.set_style('white')
+    plt.xticks(fontsize=14)
+    plt.yticks(fontsize=14)
+    plt.show()
+    
+    plt.figure(figsize=(16,10))
+    sns.heatmap(boston.corr(), mask=mascara,annot=True,annot_kws={"size":14})
+    sns.set_style('white')
+    plt.xticks(fontsize=14)
+    plt.yticks(fontsize=14)
+    plt.show()
+    
+grafico_heatmap()
 
 
 
