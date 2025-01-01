@@ -86,5 +86,62 @@ modelo_gb.fit(X_train, y_train)
 
 score = modelo_gb.score(X_test,y_test)
 print('Acurácia do modelo: ', score)
-#   Transformação de dados
+
+
+#   Apresentação do Projeto de ML
+
+
+# Previsão
+
+# CRIM	ZN	INDUS	CHAS	NOX	RM	AGE	DIS	RAD	TAX	PTRATIO	B	LSTAT	MEDV
+
+dados_entrada = [0.1,20,6,0,0.4,6,60,4,400,18,350,12]
+previsao = modelo_gb.predict([dados_entrada])
+
+# Visualização da previsão:
+print('Preço estimado para a casa: ',previsao[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #   Visualização de dados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
